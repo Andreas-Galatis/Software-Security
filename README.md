@@ -11,7 +11,7 @@ Projects done for CS-305 Software Security
 
 •	What our team did well in identifying Artemis Financial’s software security vulnerabilities was in performing a manual code review according to a vulnerability assessment process flow used for conducting an architecture review and code review to identify vulnerabilities in code. This process flow helped identify any weakness in input validation, API interactions, cryptographic vulnerabilities, client/server communications, secure code handling, secure data structures, and overall secure coding practices. 
 
-•	The first step in security is to code securely. The importance of this step cannot be understated. It is much more difficult and often costly to remediate security issues in coding post-production than it is during the after. Adhering to secure coding practices is also important for a software engineer as a matter of integrity and ethical values.
+•	The first step in security is to code securely. The importance of this step cannot be understated. It is much more difficult and often costly to remediate security issues in coding post-production than it is after. Adhering to secure coding practices is also important for a software engineer as a matter of integrity and ethical values.
 
 •	Companies benefit greatly from implementing software security into their organizational structure as it protects them, as well as their clients, from financial damage. It also helps the company uphold a sound reputation and trust with their customers. Additionally, it ensures all their data remains confidential.
 
